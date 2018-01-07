@@ -1,0 +1,5 @@
+com/cc/rabbit/tut/RabbitMqTutorialRunner.class
+com/cc/rabbit/tut/Tut1Receiver.class
+com/cc/rabbit/tut/RabbitAmqpTutorialsApplication.class
+com/cc/rabbit/tut/config/Tut1Config.class
+com/cc/rabbit/tut/Tut1Sender.class
