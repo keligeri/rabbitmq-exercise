@@ -1,5 +1,8 @@
-/home/keli/Dokumentumok/rabbitmq/rabbit-tut1/src/main/java/com/cc/rabbit/tut/RabbitAmqpTutorialsApplication.java
-/home/keli/Dokumentumok/rabbitmq/rabbit-tut1/src/main/java/com/cc/rabbit/tut/RabbitMqTutorialRunner.java
-/home/keli/Dokumentumok/rabbitmq/rabbit-tut1/src/main/java/com/cc/rabbit/tut/Tut1Sender.java
-/home/keli/Dokumentumok/rabbitmq/rabbit-tut1/src/main/java/com/cc/rabbit/tut/config/Tut1Config.java
-/home/keli/Dokumentumok/rabbitmq/rabbit-tut1/src/main/java/com/cc/rabbit/tut/Tut1Receiver.java
+/home/keli/Dokumentumok/rabbitmq/rabbit-tut1/src/main/java/com/cc/rabbit/tut2/receiver/Tut2Receiver.java
+/home/keli/Dokumentumok/rabbitmq/rabbit-tut1/src/main/java/com/cc/rabbit/tut1/receiver/Tut1Receiver.java
+/home/keli/Dokumentumok/rabbitmq/rabbit-tut1/src/main/java/com/cc/rabbit/tut2/config/Tut2Config.java
+/home/keli/Dokumentumok/rabbitmq/rabbit-tut1/src/main/java/com/cc/rabbit/tut1/config/Tut1Config.java
+/home/keli/Dokumentumok/rabbitmq/rabbit-tut1/src/main/java/com/cc/rabbit/tut1/RabbitMqTutorialRunner.java
+/home/keli/Dokumentumok/rabbitmq/rabbit-tut1/src/main/java/com/cc/rabbit/tut1/RabbitAmqpTutorialsApplication.java
+/home/keli/Dokumentumok/rabbitmq/rabbit-tut1/src/main/java/com/cc/rabbit/tut2/sender/Tut2Sender.java
+/home/keli/Dokumentumok/rabbitmq/rabbit-tut1/src/main/java/com/cc/rabbit/tut1/sender/Tut1Sender.java

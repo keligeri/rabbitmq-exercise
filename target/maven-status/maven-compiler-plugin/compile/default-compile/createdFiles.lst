@@ -1,5 +1,9 @@
-com/cc/rabbit/tut/RabbitMqTutorialRunner.class
-com/cc/rabbit/tut/Tut1Receiver.class
-com/cc/rabbit/tut/RabbitAmqpTutorialsApplication.class
-com/cc/rabbit/tut/config/Tut1Config.class
-com/cc/rabbit/tut/Tut1Sender.class
+com/cc/rabbit/tut2/receiver/Tut2Receiver.class
+com/cc/rabbit/tut2/config/Tut2Config.class
+com/cc/rabbit/tut1/sender/Tut1Sender.class
+com/cc/rabbit/tut1/receiver/Tut1Receiver.class
+com/cc/rabbit/tut1/RabbitMqTutorialRunner.class
+com/cc/rabbit/tut1/RabbitAmqpTutorialsApplication.class
+com/cc/rabbit/tut2/config/Tut2Config$ReceiverConfig.class
+com/cc/rabbit/tut2/sender/Tut2Sender.class
+com/cc/rabbit/tut1/config/Tut1Config.class
