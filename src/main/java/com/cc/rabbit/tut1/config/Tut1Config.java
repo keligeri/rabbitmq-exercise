@@ -1,7 +1,7 @@
-package com.cc.rabbit.tut.config;
+package com.cc.rabbit.tut1.config;
 
-import com.cc.rabbit.tut.receiver.Tut1Receiver;
-import com.cc.rabbit.tut.sender.Tut1Sender;
+import com.cc.rabbit.tut1.sender.Tut1Sender;
+import com.cc.rabbit.tut1.receiver.Tut1Receiver;
 import org.springframework.amqp.core.Queue;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,4 +1,4 @@
-package com.cc.rabbit.tut.sender;
+package com.cc.rabbit.tut1.sender;
 
 import org.springframework.amqp.core.Queue;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
